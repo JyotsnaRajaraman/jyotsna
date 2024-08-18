@@ -1,0 +1,2 @@
+- R. Seetharaman, <strong>Jyotsna Rajaraman</strong>, Judith Alex, Shreya Nigam (2022).
+Optical Character Recognition using Convolutional Neural Network. *Advances in Mechanical and Industrial Engineering, CRC Press (Taylor & Francis group)*(https://www.researchgate.net/publication/367667055_Optical_Character_Recognition_using_Convolutional_Neural_Network)
