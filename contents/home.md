@@ -1,6 +1,4 @@
-
-
-[![Jyotsna Rajaraman]](https://github.com/JyotsnaRajaraman)
+[Jyotsna Rajaraman](https://github.com/JyotsnaRajaraman)
 
 Currently a Ph.D student in Computer Science, at the Univerisity of Illinois Chicago (UIC) 
 
